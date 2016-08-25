@@ -1,0 +1,63 @@
+.afuera {
+
+	height: 450px;
+	width: 850px;
+	background-color: green;}
+
+.adentro {
+
+	height: 400px;
+	width: 800px;
+	border: 2px solid white;
+	margin:20px  ;
+	position: absolute;}
+
+.izquierdo {
+
+	height: 180px;
+	width: 100px;
+	border: 1px solid white;
+	position: absolute;
+	margin-top: 100px;}
+
+.derecho {
+
+	height: 180px;
+	width: 100px;
+	border: 1px solid white;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 700px;}
+
+.circulo {
+
+	position: absolute;
+	height: 180px;
+	width: 180px;
+	border-radius: 150px 150px 150px 150px;
+	-moz-border-radius: 150px 150px 150px 150px;
+	-webkit-border-radius: 150px 150px 150px 150px;
+	border: 1px solid white;
+	margin-top: 100px;
+	margin-left: 300px;}
+
+
+.bola { 
+	position: absolute;}
+
+
+.uno{
+ top:50px;
+ left:400px;}
+
+
+.tres{
+	top: 100px;
+	left: 90px;}
+
+.dos{
+ top: 260px;
+ left:670px;}
+
+
+
